@@ -1,3 +1,3 @@
 # SupremeBot
 
-Simple Supreme Bot made with the Watir Library for Ruby
+Simple Supreme Bot to check out faster made with the Watir Library for Ruby
